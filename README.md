@@ -1,4 +1,9 @@
-1. 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
+# readme
+
+## how to
+
+1. <https://python.langchain.com/docs/how_to/>
+2. how to里面有很多东西 看起来非常有帮助
 
 ## function call principle
 

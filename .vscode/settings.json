@@ -1,0 +1,9 @@
+{
+  "python-envs.pythonProjects": [],
+  "python.testing.pytestArgs": ["-s"],
+  "mcp.servers": {
+    "docs-langchain": {
+      "url": "https://docs.langchain.com/mcp"
+    }
+  }
+}

@@ -209,3 +209,5 @@ __marimo__/
 # lightrag
 rag_storage/
 inputs/
+
+.DS_Store
